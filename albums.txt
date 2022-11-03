@@ -1,0 +1,131 @@
+6
+Sounds from Nowheresville
+The Ting Tings
+./media/ting tings_sounds from nowheresville/cover.png
+15
+01.Silence-The Ting Tings.mp3
+media/ting tings_sounds from nowheresville/01.Silence-The Ting Tings.mp3
+02.Hit Me Down Sonny-The Ting Tings.mp3
+media/ting tings_sounds from nowheresville/02.Hit Me Down Sonny-The Ting Tings.mp3
+03.Hang It Up-The Ting Tings.mp3
+media/ting tings_sounds from nowheresville/03.Hang It Up-The Ting Tings.mp3
+04.Give It Back-The Ting Tings.mp3
+media/ting tings_sounds from nowheresville/04.Give It Back-The Ting Tings.mp3
+05.Guggenheim-The Ting Tings.mp3
+media/ting tings_sounds from nowheresville/05.Guggenheim-The Ting Tings.mp3
+06.Soul Killing-The Ting Tings.mp3
+media/ting tings_sounds from nowheresville/06.Soul Killing-The Ting Tings.mp3
+07.One By One-The Ting Tings.mp3
+media/ting tings_sounds from nowheresville/07.One By One-The Ting Tings.mp3
+08.Day to Day-The Ting Tings.mp3
+media/ting tings_sounds from nowheresville/08.Day to Day-The Ting Tings.mp3
+09.Help-The Ting Tings.mp3
+media/ting tings_sounds from nowheresville/09.Help-The Ting Tings.mp3
+10.In Your Life-The Ting Tings.mp3
+media/ting tings_sounds from nowheresville/10.In Your Life-The Ting Tings.mp3
+11.Hands-The Ting Tings.mp3
+media/ting tings_sounds from nowheresville/11.Hands-The Ting Tings.mp3
+12.Ain't Got Shit-The Ting Tings.mp3
+media/ting tings_sounds from nowheresville/12.Ain't Got Shit-The Ting Tings.mp3
+13.Wrong Club-The Ting Tings.mp3
+media/ting tings_sounds from nowheresville/13.Wrong Club-The Ting Tings.mp3
+14.Hang It Up (Inertia Remix)-The Ting Tings.mp3
+media/ting tings_sounds from nowheresville/14.Hang It Up (Inertia Remix)-The Ting Tings.mp3
+15.Hit Me Down Sonny-The Ting Tings.mp3
+media/ting tings_sounds from nowheresville/15.Hit Me Down Sonny-The Ting Tings.mp3
+Remix
+The Ting Tings
+./media/ting tings_remix/cover.png
+3
+01.Wrong Club-The Ting Tings.mp3
+./media/ting tings_remix/01.Wrong Club-The Ting Tings.mp3
+02.Hit Me Down Sonny-The Ting Tings.mp3
+./media/ting tings_remix/02.Hit Me Down Sonny-The Ting Tings.mp3
+03.Hang It Up (Inertia Remix)-The Ting Tings.mp3
+./media/ting tings_remix/03.Hang It Up (Inertia Remix)-The Ting Tings.mp3
+Regional at Best
+21 Polites
+./media/21 polites_Regional at Best/cover.png
+3
+01 - Gun For Hands.mp3
+./media/21 polites_Regional at Best/01 - Gun For Hands.mp3
+02 - Holding On To You.mp3
+./media/21 polites_Regional at Best/02 - Holding On To You.mp3
+03 - Slowtown.mp3
+./media/21 polites_Regional at Best/03 - Slowtown.mp3
+19
+Adele
+./media/adele_19/cover.png
+12
+01 - Daydreamer.mp3
+./media/adele_19/01 - Daydreamer.mp3
+02 - Best For Last.mp3
+./media/adele_19/02 - Best For Last.mp3
+03 - Chasing Pavements.mp3
+./media/adele_19/03 - Chasing Pavements.mp3
+04 - Cold Shoulder.mp3
+./media/adele_19/04 - Cold Shoulder.mp3
+05 - Crazy For You.mp3
+./media/adele_19/05 - Crazy For You.mp3
+06 - Melt My Heart To Stone.mp3
+./media/adele_19/06 - Melt My Heart To Stone.mp3
+07 - First Love.mp3
+./media/adele_19/07 - First Love.mp3
+08 - Right As Rain.mp3
+./media/adele_19/08 - Right As Rain.mp3
+09 - Make You Feel My Love.mp3
+./media/adele_19/09 - Make You Feel My Love.mp3
+10 - My Same.mp3
+./media/adele_19/10 - My Same.mp3
+11 - Tired.mp3
+./media/adele_19/11 - Tired.mp3
+12 - Hometown Glory.mp3
+./media/adele_19/12 - Hometown Glory.mp3
+Whatever People Say I Am, That's What I'm Not
+Arctic Monkeys
+./media/Arctic Monkeys_Whatever People Say I Am, That's What I'm Not/cover.png
+13
+01 - The View from the Afternoon.mp3
+./media/Arctic Monkeys_Whatever People Say I Am, That's What I'm Not/01 - The View from the Afternoon.mp3
+02 - I Bet You Look Good on the Dancefloor.mp3
+./media/Arctic Monkeys_Whatever People Say I Am, That's What I'm Not/02 - I Bet You Look Good on the Dancefloor.mp3
+03 - Fake Tales of San Francisco.mp3
+./media/Arctic Monkeys_Whatever People Say I Am, That's What I'm Not/03 - Fake Tales of San Francisco.mp3
+04 - Dancing Shoes.mp3
+./media/Arctic Monkeys_Whatever People Say I Am, That's What I'm Not/04 - Dancing Shoes.mp3
+05 - You Probably Couldn't See for the Lights.mp3
+./media/Arctic Monkeys_Whatever People Say I Am, That's What I'm Not/05 - You Probably Couldn't See for the Lights But You Were Staring .mp3
+06 - Still Take You Home.mp3
+./media/Arctic Monkeys_Whatever People Say I Am, That's What I'm Not/06 - Still Take You Home.mp3
+07 - Riot Van.mp3
+./media/Arctic Monkeys_Whatever People Say I Am, That's What I'm Not/07 - Riot Van.mp3
+08 - Red Light Indicates Doors Are Secured.mp3
+./media/Arctic Monkeys_Whatever People Say I Am, That's What I'm Not/08 - Red Light Indicates Doors Are Secured.mp3
+09 - Mardy Bum.mp3
+./media/Arctic Monkeys_Whatever People Say I Am, That's What I'm Not/09 - Mardy Bum.mp3
+10 - Perhaps Vampires Is a Bit Strong But.mp3
+./media/Arctic Monkeys_Whatever People Say I Am, That's What I'm Not/10 - Perhaps Vampires Is a Bit Strong But.mp3
+11 - When the Sun Goes Down.mp3
+./media/Arctic Monkeys_Whatever People Say I Am, That's What I'm Not/11 - When the Sun Goes Down.mp3
+12 - From the Ritz to the Rubble.mp3
+./media/Arctic Monkeys_Whatever People Say I Am, That's What I'm Not/12 - From the Ritz to the Rubble.mp3
+13 - A Certain Romance.mp3
+./media/Arctic Monkeys_Whatever People Say I Am, That's What I'm Not/13 - A Certain Romance.mp3
+Classic
+Various Stars
+./media/various stars_classic/cover.png
+7
+01.(Where Do I Begin) Love Story-Andy Williams.mp3
+./media/various stars_classic/01.(Where Do I Begin) Love Story-Andy Williams.mp3
+02.Can You Feel The Love Tonight  -Elton John.mp3
+./media/various stars_classic/02.Can You Feel The Love Tonight  -Elton John.mp3
+03.Careless Whisper-Wham!.mp3
+./media/various stars_classic/03.Careless Whisper-Wham!.mp3
+04.Unchained Melody-The Righteous Brothers.mp3
+./media/various stars_classic/04.Unchained Melody-The Righteous Brothers.mp3
+05.Extreme Ways (Bourne's Ultimatum)-John Powell.mp3
+./media/various stars_classic/05.Extreme Ways (Bourne's Ultimatum)-John Powell.mp3
+06.Sailing-Rod Stewart.mp3
+./media/various stars_classic/06.Sailing-Rod Stewart.mp3
+07.I Just Called to Say I Love You-Stevie Wonder.mp3
+./media/various stars_classic/07.I Just Called to Say I Love You-Stevie Wonder.mp3
